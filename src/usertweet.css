@@ -78,6 +78,7 @@ span {
 	animation-iteration-count: infinite;
 	animation-direction: alternate;
 }
+
 @keyframes buzz {
 	0% {
 		background-color: lightgray;
